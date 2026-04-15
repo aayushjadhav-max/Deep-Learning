@@ -1,0 +1,12 @@
+
+---
+
+#  2. `requirements.txt`
+
+```txt
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
